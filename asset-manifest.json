@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://fadiyaldo.github.io/csb-vw9s1/static/css/main.c24ac308.chunk.css",
+    "main.js": "https://fadiyaldo.github.io/csb-vw9s1/static/js/main.52f2ee40.chunk.js",
+    "main.js.map": "https://fadiyaldo.github.io/csb-vw9s1/static/js/main.52f2ee40.chunk.js.map",
+    "runtime-main.js": "https://fadiyaldo.github.io/csb-vw9s1/static/js/runtime-main.5a6c0d46.js",
+    "runtime-main.js.map": "https://fadiyaldo.github.io/csb-vw9s1/static/js/runtime-main.5a6c0d46.js.map",
+    "static/js/2.645143c5.chunk.js": "https://fadiyaldo.github.io/csb-vw9s1/static/js/2.645143c5.chunk.js",
+    "static/js/2.645143c5.chunk.js.map": "https://fadiyaldo.github.io/csb-vw9s1/static/js/2.645143c5.chunk.js.map",
+    "index.html": "https://fadiyaldo.github.io/csb-vw9s1/index.html",
+    "static/css/main.c24ac308.chunk.css.map": "https://fadiyaldo.github.io/csb-vw9s1/static/css/main.c24ac308.chunk.css.map",
+    "static/js/2.645143c5.chunk.js.LICENSE.txt": "https://fadiyaldo.github.io/csb-vw9s1/static/js/2.645143c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a6c0d46.js",
+    "static/js/2.645143c5.chunk.js",
+    "static/css/main.c24ac308.chunk.css",
+    "static/js/main.52f2ee40.chunk.js"
+  ]
+}
